@@ -1,0 +1,8 @@
+{
+  "short_name": "Pantheon",
+  "name": "The Pantheon",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a0a1a",
+  "background_color": "#0a0a1a"
+}
